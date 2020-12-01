@@ -3,4 +3,4 @@ def mario
   puts phrase = "It's-a me, Mario!"filter_parameter_logging
 end
 
-Mario
+mario
