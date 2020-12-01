@@ -12,3 +12,8 @@ def link
   puts dangerous
 end
 
+def all_phrases 
+  puts mario
+  puts toadstool
+  puts link
+end
